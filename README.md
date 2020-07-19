@@ -9,7 +9,7 @@
 			   
 (Every memory location and W are 16 bits)
 
-Instruction Set of ProjectCPU:
+Instruction Set of simpleCPU:
 
 ADD   -> unsigned Add
          opcode = 0
