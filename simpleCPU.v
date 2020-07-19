@@ -24,8 +24,6 @@ reg [12:0] a, aNext;
 reg [15:0] starA, starAnext;
 reg [2:0] opcode, opcodeNext;
 reg [12:0] pcNext;
-// Your design goes in here
-
 
 
 always @(posedge clk) begin
