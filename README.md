@@ -1,4 +1,4 @@
-16-bit Instruction Word (IW) of ProjectCPU:
+## 16-bit Instruction Word (IW) of simpleCPU:
 
                                 IW
                |----------------------------------
