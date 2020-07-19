@@ -1,7 +1,7 @@
 ## 16-bit Instruction Word (IW) of simpleCPU:
 
-
-`````bit position |15    13| 12                0|
+```````
+     bit position |15    13| 12                0|
                   |----------------------------------
        field name | opcode |           A            |
                   |----------------------------------
