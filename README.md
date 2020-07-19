@@ -1,13 +1,11 @@
 ## 16-bit Instruction Word (IW) of simpleCPU:
 
-                                IW
-               |----------------------------------
-  bit position |15    13| 12                    0|
-               |----------------------------------
-    field name | opcode |           A            |
-               |----------------------------------
-     bit width |   3b   |          13b           |
-               |----------------------------------
+
+`````bit position |15    13| 12                0|
+                  |----------------------------------
+       field name | opcode |           A            |
+                  |----------------------------------
+        bit width |   3b   |          13b           |
 			   
 (Every memory location and W are 16 bits)
 
